@@ -16,7 +16,7 @@ THIS WEB APP SHOWS LATEST MARKET NEWS
  ![Image 5](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(5).png) 
  
  UPDATED CRYPTOCURRENCY DATA WITH ALL MARKET ANALYSIS 
- ![Image 6](hhttps://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(7).png)) |
+ ![Image 6](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(7).png) |
 
 
 
