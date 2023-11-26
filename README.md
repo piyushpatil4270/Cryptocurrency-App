@@ -1,49 +1,19 @@
 
 
 Cryptoverse is a web application which allows users to access latest data regarding cryptocurrencies,exchanges and market news.
-|-----------------------------------------|-----------------------------------------|
-| ![Image 1](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(2).png) |
 
-|-----------------------------------------|-----------------------------------------|
-| ![Image 3](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(3).png)| 
-|-----------------------------------------|-----------------------------------------|
-| ![Image 4](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(4).png)) | 
-|-----------------------------------------|-----------------------------------------|
-| ![Image 5](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(5).png)) | 
-|-----------------------------------------|-----------------------------------------|
-| ![Image 6](hhttps://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(6).png)) |                                        |
+ ![Image 1](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(2).png) 
+
+ ![Image 3](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(3).png)
+
+ 
+ ![Image 4](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(4).png)) 
 
 
+ ![Image 5](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(5).png)) 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ![Image 6](hhttps://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(6).png)) |                                        |
 
 
 
