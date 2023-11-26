@@ -2,18 +2,21 @@
 
 Cryptoverse is a web application which allows users to access latest data regarding cryptocurrencies,exchanges and market news.
 
- ![Image 1](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(2).png) 
 
+USERS CAN VIEW GLOBAL CRYPTO STATISTICS
+ ![Image 1](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(2).png) 
+ 
+USERS CAN VIEW ALL CRYPTOCURRENCIES WITH RANKING 
  ![Image 3](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(3).png)
 
+ USERS CAN VIEW ALL INDEXES WITH RANKING 
+ ![Image 4](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(4).png) 
+
+THIS WEB APP SHOWS LATEST MARKET NEWS
+ ![Image 5](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(5).png) 
  
- ![Image 4](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(4).png)) 
-
-
- ![Image 5](https://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(5).png)) 
-
-
- ![Image 6](hhttps://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(6).png)) |                                        |
+ UPDATED CRYPTOCURRENCY DATA WITH ALL MARKET ANALYSIS 
+ ![Image 6](hhttps://github.com/piyushpatil4270/Cryptocurrency-App/blob/master/src/images/Screenshot%20(7).png)) |
 
 
 
